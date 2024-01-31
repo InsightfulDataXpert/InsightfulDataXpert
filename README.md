@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InsightfulDataXpert
-- 👀 I’m interested in data analytics, insights, 
+- 👀 I’m interested in data analytics, insights, business analytics.
 - 🌱 I’m currently learning DAX, Fabric, Forecasting, Machine Learning, and more.
 - 💞️ I’m looking to collaborate on new project ideas to utilise my data skills.
 - 📫 Reach me on linkedIn: https://www.linkedin.com/in/srishtee-sinha-a6711a11a/
